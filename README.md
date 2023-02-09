@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @aaronpurewal
+- 👋 Hi, I’m Aaron :)
 - 👀 I’m interested in the applications of AI in all things Entertainment.
 - 🌱 I’m currently learning Three.js and Theatre.js
 - 💞️ I’m looking to collaborate on stories to share
+- 💻 aaronpurewal.com
 - 📫 aaron.purewal@gmail.com
 
 <!---
